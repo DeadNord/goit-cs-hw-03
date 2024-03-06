@@ -1,4 +1,3 @@
-# main.py
 from cats_db import CatDatabase
 
 if __name__ == '__main__':
